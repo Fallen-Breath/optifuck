@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "template_mod",
+  "id": "optifuck",
   "version": "1.0.0",
 
-  "name": "template_mod",
-  "description": "",
+  "name": "OptiFuck",
+  "description": "Hacks to optifine in fabric",
   "authors": [
     "Fallen_Breath"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/",
-    "sources": "https://github.com/"
+    "homepage": "https://github.com/Fallen-Breath/optifuck",
+    "sources": "https://github.com/Fallen-Breath/optifuck"
   },
 
-  "icon": "assets/template_mod/icon.png",
+  "icon": "assets/optifuck/icon.png",
 
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
     "main": [
     ]
   },
   "mixins": [
-    "template_mod.mixins.json"
+    "optifuck.mixins.json"
   ],
 
   "depends": {
