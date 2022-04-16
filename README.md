@@ -1,3 +1,7 @@
+It's bundled in [TweakerMore](https://github.com/Fallen-Breath/tweakermore) now
+
+---
+
 ## OptiFuck
 
 Designed for Minecraft 1.15.2 + optifabric + optifine
